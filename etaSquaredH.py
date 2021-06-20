@@ -1,8 +1,8 @@
 # Function to calculate eta squared for H statistic from Kruskal Wallis one way ANOVA. 
 # Eta squared is a measure of effect size
 # This function was created to work with scipy's kruskal function, meaning you can easily get the H statistic from that output.
-# To get the H statistic, first assign your kruskal output a specific name.
-# Then set another variable equal to NAME.statistic
+# To get the H statistic, first assign your kruskal output a specific name. Example: my_name = kruskal(args go here) 
+# Then set another variable equal to my_name.statistic to capture the H statistic value.
 
 # H = H statistic from the Kruskal Wallis test
 # k = number of groups
