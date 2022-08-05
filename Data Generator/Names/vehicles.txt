@@ -1,0 +1,131 @@
+BMW X3
+BMW X4
+BMW X5
+BMW X6
+BMW X7
+Buick Enclave
+Buick Enclave Avenir
+Buick Encore
+Buick Encore GX
+Buick Envision
+Buick Envision Avenir
+Cadillac CT4
+Cadillac CT5
+Cadillac Escalade
+Cadillac Escalade ESV
+Cadillac XT4
+Cadillac XT5
+Cadillac XT6
+Chevrolet Bolt EV
+Chevrolet Bolt EUV
+Chevrolet Camaro
+Chevrolet Colorado
+Chevrolet Malibu
+Chevrolet Silverado
+Chevrolet Silverado EV
+Chevrolet Suburban
+Chevrolet Tahoe
+Chevrolet Traverse
+Dodge Durango
+Ford Bronco
+Ford Bronco Sport
+Ford Ecosport
+Ford Edge
+Ford Escape
+Ford Escape Hybrid
+Ford Escape Plugin Hybrid
+Ford Expedition
+Ford Expedition MAX
+Ford Explorer
+Ford Explorer Hybrid
+Ford F-150
+Ford F-250
+Ford F-350
+Ford F-450
+Ford Maverick
+Ford Mustang
+Ford Mustang Mach E
+Ford Ranger
+Ford Super Duty
+Ford Transit C
+GMC Acadia
+GMC Canyon
+GMC Hummer EV SUT
+GMC Hummer EV SUV
+GMC Savana
+GMC Sierra
+GMC Yukon
+GMC Yukon XL
+Jeep Cherokee
+Jeep Gladiator
+Jeep Grand Cherokee
+Jeep Wagoneer
+Jeep Grand Wagoneer
+Jeep Wrangler
+Kia K5
+Kia Sorento
+Kia Sportage
+Kia Telluride
+Lincoln Aviator
+Lincoln Corsair
+Lincoln Navigator
+Mercedes A-Class
+Mercedes C-Class Coupe
+Mercedes C-Class Sedan
+Mercedes  CLA Coupe
+Mercedes E-Class Coupe
+Mercedes E-Class Sedan
+Mercedes GLA
+Mercedes GLB
+Mercedes GLC
+Nissan Altima
+Nissan Frontier
+Nissan Leaf
+Nissan Maxima
+Nissan Murano
+Nissan Pathfinder
+Nissan Rogue
+Nissan Titan
+Ram 1500
+Ram 1500 Classic
+Ram 1500 ProMaster
+Ram ProMaster 2500
+Ram ProMaster 3500
+Ram ProMaster Cargo Van
+Subaru Ascent
+Subaru Impreza
+Subaru Legacy
+Subaru Outback
+Tesla Model 3
+Tesla Model S
+Tesla Model X
+Tesla Model Y
+Toyota Avalon
+Toyota Avalon Hybrid
+Toyota Camry
+Toyota Camry Hybrid
+Toyota Corolla
+Toyota Corolla Cross
+Toyota Corolla Hybrid
+Toyota Highlander
+Toyota Mirai
+Toyota Prius
+Toyota Prius Prime
+Toyota RAV4
+Toyota RAV4 Hybrid
+Toyota Sequoia
+Toyota Sienna
+Toyota Tacoma
+Toyota Tundra
+Toyota Tundra i-Force MAX
+Toyota Venza
+Volkswagen Arteon
+Volkswagen Atlas
+Volkswagen Atlas Cross Sport
+Volkswagen Golf R
+Volkswagen Golf GTI
+Volkswagen ID.4
+Volkswagen Jetta
+Volkswagen Jetta GLI
+Volkswagen Taos
+Volkswagen Tiguan

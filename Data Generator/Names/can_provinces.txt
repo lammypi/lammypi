@@ -1,0 +1,30 @@
+AB,Calgary,T1X 0L3
+AB,Edmonton,T5A 0A5
+AB,Grande Prairie,T8V 0A1
+BC,Grand Forks,V0H 0A1
+BC,Kelowna,V1P 1A1
+BC,Vancouver,V5K 0A4
+MB,Portage La Prairie,R0H 1N0
+MB,Selkirk,R0E 0M0
+MB,Winnipeg,R2C 0A5
+NB,Dieppe,E1A 0A1
+NB,Edmundston,E3V 0A1
+NB,Moncton,E1A 0A3
+NL,Conception Bay South,A0A 1H0
+NL,Fort St. John,V1J 0A3
+NL,Goose Bay,A0P 0A5
+NS,Halifax,B3H 0A2
+NS,New Glasgow,B2H 0A1
+NS,Sydney,B1N 0A1
+ON,Ottawa,K1A 0A4
+ON,Toronto,M3C 0C3
+ON,Windsor,N8N 0A4
+PE,Charlottetown,C1A 0A2
+PE,Cornwall,C0A 0B5
+PE,Three Rivers,C0A 1R0
+QC,Montreal,H1Y 1J8
+QC,Quebec City,G1A 0B2
+QC,Windsor,J1S 0B8
+SK,Melville,S0A 2P0
+SK,Regina,S4N 0A5
+SK,Saskatoon,S7H 0A8

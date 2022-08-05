@@ -1,0 +1,150 @@
+AL,Birmingham,35005
+AL,Huntsville,35649
+AL,Mobile,36525
+AK,Anchorage,99501
+AK,Fairbanks,99703
+AK,Juneau,99801
+AZ,Phoenix,85001
+AZ,Scottsdale,85054
+AZ,Surprise,85335
+AR,Fayetteville,72701
+AR,Little Rock,72002
+AR,Springdale,72718
+CA,Los Angeles,90001
+CA,San Diego,22400
+CA,San Francisco,94016
+CO,Colorado Springs,80829
+CO,Denver,80014
+CO,Frisco,80443
+CT,Bridgeport,06601
+CT,Hartford,06101
+CT,Norwalk,06850
+DE,Dover,19901
+DE,Newark,19711
+DE,Wilmington,19801
+FL,Miami,33101
+FL,Orlando,32789
+FL,Tallahassee,32301
+GA,Atlanta,30301
+GA,Augusta,30805
+GA,Macon,31201
+HI,Hilo,96720
+HI,Honolulu,96795
+HI,Pearl City,96782
+ID,Boise,83701
+ID,Idaho Falls,83401
+ID,Meridian,83642
+IL,Aurora,60502
+IL,Chicago,60007
+IL,Springfield,62629
+IN,Indianapolis,46077
+IN,Kokomo,46901
+IN,Laporte,46350
+IA,Ames,50010
+IA,Dubuque,52001
+IA,Waterloo,50701
+KS,Kansas City,66012
+KS,Lawrence,66044
+KS,Topeka,66546
+KY,Bowling Green,42101
+KY,Lexington,40502
+KY,Louisville,40018
+LA,Baton Rouge,70801
+LA,Metairie,70001
+LA,New Orleans,70032
+ME,Bangor,04401
+ME,Lewiston,04240
+ME,Portland,04019
+MD,Baltimore,21201
+MD,Columbia,20588
+MD,Silver Spring,20815
+MA,Boston,02108
+MA,Cambridge,02114
+MA,Springfield,01020
+MI,Detroit,48127
+MI,Grosse Pointe,48230
+MI,Kalamazoo,49001
+MN,Duluth,55802
+MN,Minneapolis,55111
+MN,St.Paul,55101
+MS,Gulfport,39501
+MS,Jackson,39056
+MS,Southaven,38651
+MO,Branson,65615
+MO,Ste.Genevieve,63670
+MO,St.Louis,63101
+MT,Billings,59101
+MT,Bozeman,59715
+MT,Helena,59601
+NE,Bellevue,68005
+NE,Lincoln,68501
+NE,Omaha,68007
+NV,Carson City,89403
+NV,Las Vegas,88901
+NV,Reno,89433
+NH,Concord,03301
+NH,Nashua,03060
+NH,Rochester,03839
+NJ,Atlantic City,08201
+NJ,Elizabeth,07114
+NJ,Jersey City,07030
+NM,Albuquerque,87101
+NM,Las Cruces,88001
+NM,Santa Fe,87501
+NY,Albany,12084
+NY,Ithaca,14850
+NY,New York City,10001
+NC,Charlotte,28105
+NC,Greensboro,27214
+NC,Raleigh,27513
+North Dakota,Bismarck,58501
+North Dakota,Fargo,58102
+North Dakota,Grand Forks,58201
+OH,Akron,44223
+OH,Cincinnati,45201
+OH,Cleveland,44101
+OK,Grove,74344
+OK,Oklahoma City,73008
+OK,Tulsa,74008
+OR,Beaverton,97005
+OR,Eugene,97401
+OR,Portland,97035
+PA,Harrisburg,17025
+PA,Philadelphia,19019
+PA,Pittsburgh,15106
+RI,Barrington,02806
+RI,Bristol,02809
+RI,Providence,02860
+SC,Charleston,29401
+SC,Columbia,29044
+SC,Greenville,29601
+SD,Pierre,57501
+SD,Sioux Falls,57101
+SD,Yankton,57078
+TN,Chattanooga,37341
+TN,Memphis,37501
+TN,Nashville,37011
+TX,Austin,73301
+TX,Dallas,75001
+TX,Houston,77001
+UT,Provo,84097
+UT,Salt Lake City,84044
+UT,Sandy,84047
+VT,Burlington,05401
+VT,Essex Junction,05451
+VT,Rutland,05701
+VA,Arlington,20301
+VA,Roanoke,24001
+VA,Tysons Corner,22043
+WA,Bellevue,98004
+WA,Seattle,98101
+WA,Tacoma,98402
+WV,Charleston,25301
+WV,Fairmont,26554
+WV,Huntigton,25701
+WI,Green Bay,54229
+WI,Madison,53558
+WI,Milwaukee,53201
+WY,Casper,82601
+WY,Cheyenne,82001
+WY,Laramie,82071
