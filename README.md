@@ -4,7 +4,7 @@ I'm a UX researcher who applies analytics methods for better user insights. What
 - Clustering to identify groups of users based on attitudinal or behavioral data that supplements persona development 💁
 - Network analytics to map out multidimensional user data 🕸️
 - Topic modeling, sentiment analysis, and emotion analysis of open ended user feedback 📖
-- Create methods and measures for monitoring content strategies 📊
+- Creating methods and measures for monitoring content strategies 📊
 - A/B testing communications 💬
 
 As a researcher, I realize there's a large variety of data floating around in companies that UX teams can make use of, so it's my goal to find that data, gather as much knowledge as possible from it, and share it with my colleagues. Analytics methods provide the best way of supplementing traditional UXR activities like interviews, user tests, or observational studies. 
