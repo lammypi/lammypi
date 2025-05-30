@@ -24,7 +24,7 @@ As a researcher, I realize there's a large variety of data floating around in co
 - [Natural Language Processing, Udacity](https://www.udacity.com/certificate/5SASDXSM)
 - [Deep Learning, Udacity](https://www.udacity.com/certificate/JHW4DNWF)
 
-### 🔖 Education
+### 🏫 Education
 - Masters of Science, Analytics - Georgia Institute of Technology, Expected Graduation of Spring 2026
 - Masters of Science, Applied Human Perception and Performance - Loyola University Chicago, April 2008
 
