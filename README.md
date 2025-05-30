@@ -1,12 +1,23 @@
 Hi, I’m Liv! 
 
-I'm a UX researcher interested in applying data science to UX data, and a student in Georgia Tech's OMSA program. 
+I'm a UX researcher who applies data analytics to UX.  While I perform all of the traditional UXR activities such as interviews and user tests, I also:
+- Use clustering methods to help build personas 💁
+- Apply network analysis as way of understanding user attitudes 💭
+- Develop and maintain LLM-based tools to assist with data analysis 💻
+- Create custom methods for assessing online strategy 📶
 
 As a researcher, I realize there's a large variety of data floating around in companies that UX teams can make use of, so it's my goal to find that data, gather as much knowledge as possible from it, and share it with my colleagues.
 
-You may notice that my repositories are a bit sparse. This is because most of my learning and experimentation is done via my job, and so I cannot share entire notebooks without violating my terms of employment. Simply put- it takes me a bit of time to spin up projects that resemble what I do at my job, or to identify interesting ones that help me expand my skills.
+🔆 My Skills
+- Data analytics
+- Data visualization
+- Languages: Python, R, SQL
+- Programs: Qualtrics
 
-As you're looking at my GitHub, please keep in mind that I am not a data analyst or data scientist. __I have never claimed that, and I will never claim that.__ I simply understand that there is a lot more data available to UX teams than they might realize, and I want to develop the skills to help my teams get the most out of that data.
+📚 My Certificates
+- [Natural Language Processing - Udacity](https://www.udacity.com/certificate/5SASDXSM)
+
+
 
 If you'd like to chat with me, please reach out to me via LinkedIn at https://linkedin.com/in/lesliemcfarlin . 
 
