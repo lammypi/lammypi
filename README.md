@@ -12,8 +12,8 @@ As a researcher, I realize there's a variety of data floating around in companie
 - Data wrangling, exploration, and analysis
 - Metric development
 - Data visualization
-- Languages: Python, R, SQL, HTML, CSS, SASS
-- Packages, Libraries, & Collections: SciPy, Scikit Learn, NetworkX, Streamlit, Shiny, Quarto, tidyverse
+- Languages: Python, R, HTML, CSS, SASS
+- Packages, Libraries, & Collections: SciPy, Scikit Learn, NetworkX, Streamlit, Shiny, Quarto, tidyverse, bootnet, BGGM, targets
 
 ### 📚 Certifications
 - [AI Agents](www.udacity.com/certificate/e/2616b142-85a8-11f0-b2af-d72b1f2aa14a)
