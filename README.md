@@ -16,7 +16,7 @@ As a researcher, I realize there's a variety of data floating around in companie
 - Packages, Libraries, & Collections: SciPy, Scikit Learn, NetworkX, Streamlit, Shiny, Quarto, tidyverse, bootnet, BGGM, targets
 
 ### 📚 Certifications
-- [AI Agents](www.udacity.com/certificate/e/2616b142-85a8-11f0-b2af-d72b1f2aa14a)
+- [AI Agents](https://www.udacity.com/certificate/e/2616b142-85a8-11f0-b2af-d72b1f2aa14a)
 - [Introduction to Machine Learning with Tensorflow](https://www.udacity.com/certificate/e/a69793ec-be6b-11ed-8a63-4f99e13ca3de)
 - [Post Graduate Program in Data Science, Simplilearn](https://success.simplilearn.com/bb75c742-1da0-4f5a-95cf-98b32ab61a30#acc.pLDn4we1)
 - [Natural Language Processing, Udacity](https://www.udacity.com/certificate/5SASDXSM)
