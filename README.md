@@ -9,11 +9,15 @@ I'm a research and analytics professional dedicated to increasing the value of U
 As a researcher, I realize there's a variety of data floating around in companies that UX teams can make use of, so it's my goal to find that data, gather as much knowledge as possible from it, and share it with my colleagues. In my experience, analytics methods provide the best way of supplementing traditional UXR activities like interviews, user tests, or observational studies. 
 
 ### 🔆 Skills
-- Data wrangling, exploration, and analysis
+- Behavioral data science
 - Metric development
 - Data visualization
 - Languages: Python, R, HTML, CSS, SASS
 - Packages, Libraries, & Collections: SciPy, Scikit Learn, NetworkX, Streamlit, Shiny, Quarto, tidyverse, bootnet, BGGM, targets
+
+### 🏫 Education
+- Masters of Science, Analytics - Georgia Institute of Technology, May 2026
+- Masters of Science, Applied Human Perception and Performance - Loyola University Chicago, April 2008
 
 ### 📚 Certifications
 - [AI Agents](https://www.udacity.com/certificate/e/2616b142-85a8-11f0-b2af-d72b1f2aa14a)
@@ -21,10 +25,6 @@ As a researcher, I realize there's a variety of data floating around in companie
 - [Post Graduate Program in Data Science, Simplilearn](https://success.simplilearn.com/bb75c742-1da0-4f5a-95cf-98b32ab61a30#acc.pLDn4we1)
 - [Natural Language Processing, Udacity](https://www.udacity.com/certificate/5SASDXSM)
 - [Deep Learning, Udacity](https://www.udacity.com/certificate/JHW4DNWF)
-
-### 🏫 Education
-- Masters of Science, Analytics - Georgia Institute of Technology, Expected Graduation of Spring 2026
-- Masters of Science, Applied Human Perception and Performance - Loyola University Chicago, April 2008
 
 If you'd like to chat with me, please reach out to me via LinkedIn at https://linkedin.com/in/lesliemcfarlin . 
 
